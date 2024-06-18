@@ -2,6 +2,8 @@
 
 This folder contains the Toucus logo. Here's what you can and cannot do with it:
 
+<img src="https://github.com/Toucus/brand/blob/main/logo/main/readme%20banner.png" alt="Toucus Logo" width="400">
+
 **Allowed:**
 - Edit the logo to change its colors.
 
