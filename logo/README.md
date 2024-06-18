@@ -9,7 +9,8 @@ This folder contains the Toucus logo. Here's what you can and cannot do with it:
 
 **Not Allowed:**
 - Modify the logo in any other way, such as changing its design or distorting its appearance.
-
+ 
 Please adhere to these guidelines when using the Toucus logo.
 
+---
 © 2024 Toucus. All rights reserved.
